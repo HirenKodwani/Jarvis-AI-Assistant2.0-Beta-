@@ -9,7 +9,7 @@ Jarvis (a.k.a. Jarviz) is a smart, voice-controlled AI assistant with a graphica
 How to Use
 Visit 👉 https://majestic-pie-66c8e8.netlify.app/
 
-Click the 🎙️ mic or say "Jarvis"
+Click the 🎙️ mic and say "Jarvis"
 
 Speak commands like:
 
