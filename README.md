@@ -25,7 +25,7 @@ Jarvis will respond with voice + text in the GUI
 
 | Feature              | Description                                |
 | -------------------- | ------------------------------------------ |
-| 🎤 Voice Recognition | Say **"Jarvis"** or tap mic to activate    |
+| 🎤 Voice Recognition | Say **"Jarvis"** or tap mic to activate and say Jarvis    |
 | 🤖 Chat Interface    | Conversational AI assistant                |
 | 🌙 Dark Mode         | Light/dark theme toggle                    |
 | 📊 Voice Graphics    | Mic animation on speech detection          |
