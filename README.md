@@ -4,10 +4,10 @@ Jarvis (a.k.a. Jarviz) is a smart, voice-controlled AI assistant with a graphica
 
 ⚠️ Note: This is an early prototype (Beta version). There are multiple known bugs and features under development. Community feedback and contributions are welcome!
 
-🌐 Try Live Demo → [https://majestic-pie-66c8e8.netlify.app/](https://magnificent-dolphin-f98b74.netlify.app/)
+🌐 Try Live Demo → http://magnificent-dolphin-f98b74.netlify.app/
 
 How to Use
-Visit 👉 [https://majestic-pie-66c8e8.netlify.app/](https://magnificent-dolphin-f98b74.netlify.app/)
+Visit 👉 http://magnificent-dolphin-f98b74.netlify.app/
 
 Click the 🎙️ mic and say "Jarvis"
 
